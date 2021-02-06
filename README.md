@@ -9,9 +9,9 @@
 7. Run the *index.html* file to see the results!
 
 ## Useful Links for Web Development
-[W3Schools](https://www.w3schools.com/)
-[MDN WEB DOCS](https://developer.mozilla.org/en-US/)
+[W3Schools](https://www.w3schools.com/)  
+[MDN WEB DOCS](https://developer.mozilla.org/en-US/)  
 
 ## Good Places to Learn Code
-[edX](https://www.edx.org/)
-[Codecademy](https://www.codecademy.com)
+[edX](https://www.edx.org/)  
+[Codecademy](https://www.codecademy.com)  
